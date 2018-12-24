@@ -10,11 +10,6 @@ define('DBUSER', 'root');
 define('DBPASS','');
 define('DBNAME', 'api');
 
-// define('DBHOST','localhost');
-// define('DBUSER', 'hfcid_ciuser');
-// define('DBPASS','777-CHECK-IN-888');
-// define('DBNAME', 'hfcid_checkin');
-
 define('API_INVALID_CREDENTIALS', 'Incorrect login');
 define('API_INVALID_ACCESS', 'Access forbidden');
 define('API_SUCCESS_LOGIN', 'Login success');
