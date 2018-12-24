@@ -1,5 +1,5 @@
 <?php
-define('API_KEY', 'Mzc4ZjM4YzEzZTQ4YjM2ZWNkM2IwYjg4YWUzMjQxYTM0ZjZlMTg0NQ==[');
+define('API_KEY', '');
 define('FLAG_LOGIN', 1);
 define('FLAG_DEFAULT', 0);
 define('FLAG_CHECKIN', 2);
@@ -17,11 +17,6 @@ define('API_SUCCESS_LOGOUT', 'logout success');
 define('API_SUCCESS_CHECKIN', 'Checkin success');
 define('API_MISSING_PARAMETER', 'Missing parameter');
 define('API_LOCATION_UNKNOWN', 'Location unknown');
-
-/* LOGIN */
-// include('../init-app.php');
-
-// use zeroone\core\Database2;
 
 class Helper
 {
